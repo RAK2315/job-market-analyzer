@@ -1,4 +1,6 @@
+# -----------------------------
 # Byte-compiled / optimized / DLL files
+# -----------------------------
 __pycache__/
 *.py[cod]
 *$py.class
@@ -6,9 +8,15 @@ __pycache__/
 # C extensions
 *.so
 
-data/raw/
+# -----------------------------
+# Data folder - keep folder but ignore contents
+# -----------------------------
+data/raw/*
+!data/raw/.gitkeep
 
+# -----------------------------
 # Distribution / packaging
+# -----------------------------
 .Python
 build/
 develop-eggs/
@@ -25,28 +33,43 @@ var/
 .installed.cfg
 *.egg
 
+# -----------------------------
 # Virtual environments
+# -----------------------------
 venv/
 ENV/
 env/
 .env/
 
+# -----------------------------
 # VS Code settings
+# -----------------------------
 .vscode/
 
+# -----------------------------
 # Jupyter Notebook checkpoints
+# -----------------------------
 .ipynb_checkpoints/
 
+# -----------------------------
 # Python dotenv environment variables
+# -----------------------------
 .env
 
-# Logs
+# -----------------------------
+# Logs - keep folder but ignore contents
+# -----------------------------
+logs/*
+!logs/.gitkeep
 *.log
-logs/
 
+# -----------------------------
 # Mac system files
+# -----------------------------
 .DS_Store
 
+# -----------------------------
 # Windows system files
+# -----------------------------
 Thumbs.db
 ehthumbs.db
