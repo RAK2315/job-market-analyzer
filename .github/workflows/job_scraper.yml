@@ -1,5 +1,6 @@
 name: Weekly Job Scraper
 
+# Run weekly and also manually
 on:
   schedule:
     - cron: '0 0 * * 0'   # every Sunday 00:00 UTC
@@ -10,34 +11,39 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # Step 1: Checkout repo
+    # 1️⃣ Checkout repository
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    # Step 2: Set up Python
-    - name: Set up Python 3.11
+    # 2️⃣ Set up Python 3.11
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: 3.11
 
-    # Step 3: Install dependencies
+    # 3️⃣ Install dependencies
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    # Step 4: Run job scraper
-    - name: Run job scraper
+    # 4️⃣ Run job scraper
+    - name: Run fetch_jobs.py
       run: |
         python scripts/fetch_jobs.py
 
-    # Step 5: Commit & push validated jobs
+    # 5️⃣ Commit & push validated jobs
     - name: Commit & push validated jobs
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}   # PAT you saved in repo secrets
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}   # Your PAT stored as repo secret
       run: |
         git config --global user.email "actions@github.com"
         git config --global user.name "github-actions"
         git add data/raw/
         git commit -m "Add latest fetched jobs [skip ci]" || echo "No changes to commit"
         git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
+
+    # 6️⃣ Log summary
+    - name: Log workflow summary
+      run: |
+        echo "Workflow finished. Check data/raw/ for new job postings."
