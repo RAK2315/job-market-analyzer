@@ -1,0 +1,617 @@
+{
+  ".net 8 or higher": {
+    "source": "stackoverflow"
+  },
+  "ada": {
+    "source": "stackoverflow"
+  },
+  "aider": {
+    "source": "stackoverflow"
+  },
+  "amazon bedrock": {
+    "source": "stackoverflow"
+  },
+  "amazon redshift": {
+    "source": "stackoverflow"
+  },
+  "amazon web services (aws)": {
+    "source": "stackoverflow"
+  },
+  "android studio": {
+    "source": "stackoverflow"
+  },
+  "angular": {
+    "source": "stackoverflow"
+  },
+  "angularjs": {
+    "source": "stackoverflow"
+  },
+  "ansible": {
+    "source": "stackoverflow"
+  },
+  "apt": {
+    "source": "stackoverflow"
+  },
+  "asp.net": {
+    "source": "stackoverflow"
+  },
+  "asp.net core": {
+    "source": "stackoverflow"
+  },
+  "assembly": {
+    "source": "stackoverflow"
+  },
+  "astro": {
+    "source": "stackoverflow"
+  },
+  "aws": {
+    "source": "seed"
+  },
+  "axum": {
+    "source": "stackoverflow"
+  },
+  "azure": {
+    "source": "seed"
+  },
+  "bash/shell (all shells)": {
+    "source": "stackoverflow"
+  },
+  "bigquery": {
+    "source": "stackoverflow"
+  },
+  "blazor": {
+    "source": "stackoverflow"
+  },
+  "bolt": {
+    "source": "stackoverflow"
+  },
+  "bun": {
+    "source": "stackoverflow"
+  },
+  "c": {
+    "source": "stackoverflow"
+  },
+  "c#": {
+    "source": "stackoverflow"
+  },
+  "c++": {
+    "source": "stackoverflow"
+  },
+  "c++23": {
+    "source": "stackoverflow"
+  },
+  "cargo": {
+    "source": "stackoverflow"
+  },
+  "cassandra": {
+    "source": "stackoverflow"
+  },
+  "chocolatey": {
+    "source": "stackoverflow"
+  },
+  "claude code": {
+    "source": "stackoverflow"
+  },
+  "clickhouse": {
+    "source": "stackoverflow"
+  },
+  "cline and/or roo": {
+    "source": "stackoverflow"
+  },
+  "cloud firestore": {
+    "source": "stackoverflow"
+  },
+  "cloudflare": {
+    "source": "stackoverflow"
+  },
+  "cobol": {
+    "source": "stackoverflow"
+  },
+  "cockroachdb": {
+    "source": "stackoverflow"
+  },
+  "composer": {
+    "source": "stackoverflow"
+  },
+  "cosmos db": {
+    "source": "stackoverflow"
+  },
+  "cursor": {
+    "source": "stackoverflow"
+  },
+  "dart": {
+    "source": "stackoverflow"
+  },
+  "databricks sql": {
+    "source": "stackoverflow"
+  },
+  "datadog": {
+    "source": "stackoverflow"
+  },
+  "datomic": {
+    "source": "stackoverflow"
+  },
+  "delphi": {
+    "source": "stackoverflow"
+  },
+  "delphi 12+ athens": {
+    "source": "stackoverflow"
+  },
+  "deno": {
+    "source": "stackoverflow"
+  },
+  "digital ocean": {
+    "source": "stackoverflow"
+  },
+  "django": {
+    "source": "stackoverflow"
+  },
+  "docker": {
+    "source": "seed"
+  },
+  "drupal": {
+    "source": "stackoverflow"
+  },
+  "duckdb": {
+    "source": "stackoverflow"
+  },
+  "dynamodb": {
+    "source": "stackoverflow"
+  },
+  "eclipse": {
+    "source": "stackoverflow"
+  },
+  "elasticsearch": {
+    "source": "stackoverflow"
+  },
+  "elixir": {
+    "source": "stackoverflow"
+  },
+  "erlang": {
+    "source": "stackoverflow"
+  },
+  "express": {
+    "source": "stackoverflow"
+  },
+  "f#": {
+    "source": "stackoverflow"
+  },
+  "fastapi": {
+    "source": "seed"
+  },
+  "fastify": {
+    "source": "stackoverflow"
+  },
+  "firebase": {
+    "source": "stackoverflow"
+  },
+  "firebase realtime database": {
+    "source": "stackoverflow"
+  },
+  "flask": {
+    "source": "seed"
+  },
+  "fortran": {
+    "source": "stackoverflow"
+  },
+  "gcp": {
+    "source": "seed"
+  },
+  "gdscript": {
+    "source": "stackoverflow"
+  },
+  "gleam": {
+    "source": "stackoverflow"
+  },
+  "go": {
+    "source": "stackoverflow"
+  },
+  "google cloud": {
+    "source": "stackoverflow"
+  },
+  "google gemini": {
+    "source": "stackoverflow"
+  },
+  "gradle": {
+    "source": "stackoverflow"
+  },
+  "groovy": {
+    "source": "stackoverflow"
+  },
+  "h2": {
+    "source": "stackoverflow"
+  },
+  "hadoop": {
+    "source": "seed"
+  },
+  "heroku": {
+    "source": "stackoverflow"
+  },
+  "homebrew": {
+    "source": "stackoverflow"
+  },
+  "hostinger": {
+    "source": "stackoverflow"
+  },
+  "html/css": {
+    "source": "stackoverflow"
+  },
+  "ibm cloud": {
+    "source": "stackoverflow"
+  },
+  "ibm db2": {
+    "source": "stackoverflow"
+  },
+  "influxdb": {
+    "source": "stackoverflow"
+  },
+  "intellij idea": {
+    "source": "stackoverflow"
+  },
+  "java": {
+    "source": "stackoverflow"
+  },
+  "javascript": {
+    "source": "stackoverflow",
+    "aliases": [
+      "ecmascript",
+      "js",
+      "nodejs"
+    ]
+  },
+  "jquery": {
+    "source": "stackoverflow"
+  },
+  "jupyter notebook/jupyterlab": {
+    "source": "stackoverflow"
+  },
+  "keras": {
+    "source": "seed"
+  },
+  "kotlin": {
+    "source": "stackoverflow"
+  },
+  "kubernetes": {
+    "source": "seed"
+  },
+  "langgraph": {
+    "source": "stackoverflow"
+  },
+  "laravel": {
+    "source": "stackoverflow"
+  },
+  "large language model": {
+    "source": "stackoverflow"
+  },
+  "lisp": {
+    "source": "stackoverflow"
+  },
+  "lovable.dev": {
+    "source": "stackoverflow"
+  },
+  "lua": {
+    "source": "stackoverflow"
+  },
+  "make": {
+    "source": "stackoverflow"
+  },
+  "mariadb": {
+    "source": "stackoverflow"
+  },
+  "matlab": {
+    "source": "stackoverflow"
+  },
+  "maven (build tool)": {
+    "source": "stackoverflow"
+  },
+  "micropython": {
+    "source": "stackoverflow"
+  },
+  "microsoft access": {
+    "source": "stackoverflow"
+  },
+  "microsoft azure": {
+    "source": "stackoverflow"
+  },
+  "microsoft fabric": {
+    "source": "stackoverflow"
+  },
+  "microsoft sql server": {
+    "source": "stackoverflow"
+  },
+  "mojo": {
+    "source": "stackoverflow"
+  },
+  "mongodb": {
+    "source": "stackoverflow"
+  },
+  "msbuild": {
+    "source": "stackoverflow"
+  },
+  "mysql": {
+    "source": "stackoverflow"
+  },
+  "nano": {
+    "source": "stackoverflow"
+  },
+  "neo4j": {
+    "source": "stackoverflow"
+  },
+  "neovim": {
+    "source": "stackoverflow"
+  },
+  "nestjs": {
+    "source": "stackoverflow"
+  },
+  "netlify": {
+    "source": "stackoverflow"
+  },
+  "new relic": {
+    "source": "stackoverflow"
+  },
+  "next.js": {
+    "source": "stackoverflow"
+  },
+  "ninja": {
+    "source": "stackoverflow"
+  },
+  "node.js": {
+    "source": "stackoverflow"
+  },
+  "notepad++": {
+    "source": "stackoverflow"
+  },
+  "npm": {
+    "source": "stackoverflow"
+  },
+  "nuget": {
+    "source": "stackoverflow"
+  },
+  "numpy": {
+    "source": "seed"
+  },
+  "nuxt.js": {
+    "source": "stackoverflow"
+  },
+  "ocaml": {
+    "source": "stackoverflow"
+  },
+  "odoo": {
+    "source": "stackoverflow"
+  },
+  "ollama": {
+    "source": "stackoverflow"
+  },
+  "oracle": {
+    "source": "stackoverflow"
+  },
+  "pacman": {
+    "source": "stackoverflow"
+  },
+  "pandas": {
+    "source": "seed"
+  },
+  "perl": {
+    "source": "stackoverflow"
+  },
+  "phoenix": {
+    "source": "stackoverflow"
+  },
+  "php": {
+    "source": "stackoverflow"
+  },
+  "phpstorm": {
+    "source": "stackoverflow"
+  },
+  "pip": {
+    "source": "stackoverflow"
+  },
+  "pnpm": {
+    "source": "stackoverflow"
+  },
+  "pocketbase": {
+    "source": "stackoverflow"
+  },
+  "podman": {
+    "source": "stackoverflow"
+  },
+  "poetry": {
+    "source": "stackoverflow"
+  },
+  "polars": {
+    "source": "stackoverflow"
+  },
+  "postgresql": {
+    "source": "stackoverflow"
+  },
+  "powershell": {
+    "source": "stackoverflow"
+  },
+  "prolog": {
+    "source": "stackoverflow"
+  },
+  "prometheus": {
+    "source": "stackoverflow"
+  },
+  "pycharm": {
+    "source": "stackoverflow"
+  },
+  "pydantic": {
+    "source": "stackoverflow"
+  },
+  "python": {
+    "source": "seed",
+    "aliases": [
+      "py",
+      "python3"
+    ]
+  },
+  "pytorch": {
+    "source": "seed"
+  },
+  "r": {
+    "source": "seed",
+    "aliases": [
+      "r language"
+    ]
+  },
+  "rag": {
+    "source": "stackoverflow"
+  },
+  "railway": {
+    "source": "stackoverflow"
+  },
+  "react": {
+    "source": "stackoverflow"
+  },
+  "redis": {
+    "source": "stackoverflow"
+  },
+  "rider": {
+    "source": "stackoverflow"
+  },
+  "ruby": {
+    "source": "stackoverflow"
+  },
+  "ruby on rails": {
+    "source": "stackoverflow"
+  },
+  "rust": {
+    "source": "stackoverflow"
+  },
+  "rustrover": {
+    "source": "stackoverflow"
+  },
+  "scala": {
+    "source": "stackoverflow"
+  },
+  "scikit-learn": {
+    "source": "seed"
+  },
+  "shadcn/ui": {
+    "source": "stackoverflow"
+  },
+  "snowflake": {
+    "source": "stackoverflow"
+  },
+  "spark": {
+    "source": "seed"
+  },
+  "splunk": {
+    "source": "stackoverflow"
+  },
+  "spring boot": {
+    "source": "stackoverflow"
+  },
+  "sql": {
+    "source": "seed",
+    "aliases": [
+      "structured query language"
+    ]
+  },
+  "sqlite": {
+    "source": "stackoverflow"
+  },
+  "streamlit": {
+    "source": "seed"
+  },
+  "sublime text": {
+    "source": "stackoverflow"
+  },
+  "supabase": {
+    "source": "stackoverflow"
+  },
+  "svelte": {
+    "source": "stackoverflow"
+  },
+  "swift": {
+    "source": "stackoverflow"
+  },
+  "swiftdata": {
+    "source": "stackoverflow"
+  },
+  "symfony": {
+    "source": "stackoverflow"
+  },
+  "tailwind css 4": {
+    "source": "stackoverflow"
+  },
+  "tensorflow": {
+    "source": "seed"
+  },
+  "terraform": {
+    "source": "stackoverflow"
+  },
+  "trae": {
+    "source": "stackoverflow"
+  },
+  "typescript": {
+    "source": "stackoverflow"
+  },
+  "ultralytics": {
+    "source": "stackoverflow"
+  },
+  "uv": {
+    "source": "stackoverflow"
+  },
+  "valkey": {
+    "source": "stackoverflow"
+  },
+  "vba": {
+    "source": "stackoverflow"
+  },
+  "vercel": {
+    "source": "stackoverflow"
+  },
+  "vim": {
+    "source": "stackoverflow"
+  },
+  "visionos": {
+    "source": "stackoverflow"
+  },
+  "visual basic (.net)": {
+    "source": "stackoverflow"
+  },
+  "visual studio": {
+    "source": "stackoverflow"
+  },
+  "visual studio code": {
+    "source": "stackoverflow"
+  },
+  "vite": {
+    "source": "stackoverflow"
+  },
+  "vscodium": {
+    "source": "stackoverflow"
+  },
+  "vue.js": {
+    "source": "stackoverflow"
+  },
+  "webpack": {
+    "source": "stackoverflow"
+  },
+  "webstorm": {
+    "source": "stackoverflow"
+  },
+  "windsurf": {
+    "source": "stackoverflow"
+  },
+  "wordpress": {
+    "source": "stackoverflow"
+  },
+  "xcode": {
+    "source": "stackoverflow"
+  },
+  "yandex cloud": {
+    "source": "stackoverflow"
+  },
+  "yarn": {
+    "source": "stackoverflow"
+  },
+  "zed": {
+    "source": "stackoverflow"
+  },
+  "zig": {
+    "source": "stackoverflow"
+  }
+}
